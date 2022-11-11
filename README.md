@@ -3,4 +3,4 @@
 #### This is an improvement on existing work ([selective kernel convolution](https://ieeexplore.ieee.org/document/8954149/)) and is applied to breast ultrasound image segmentation.
 
 ## 网络架构
-![网络结构1](https://github.com/CGPxy/cgp/blob/main/papers/CNet.png)
+![网络结构1](https://github.com/CGPxy/cgp/blob/main/papers/ESKNet.png)
